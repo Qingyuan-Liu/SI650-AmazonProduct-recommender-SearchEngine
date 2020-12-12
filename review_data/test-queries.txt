@@ -1,0 +1,20 @@
+earphone,wireless,waterproof
+earphone,noise canceling,in ear
+headphone,light,long playtime
+laptop,windows,game friendly,slim
+stick,bluetooth,good remote
+tablet,android,slim
+tablet,affordable,light-weight
+case,slim,magnetic
+memory card,affordable,high speed
+player,bluetooth,portable
+monitor,slim,frameless,good picture quality
+speaker,blutooth,long battery life
+tv,smart,good picture quality
+keyboard,quiet,affordable
+keyboard,wireless,backlight,smooth
+mouse,wireless,quiet
+drive,portable,good quality
+mount,stable,easy install,flexible
+modem,reliable,fast
+adapter,safe,stable
